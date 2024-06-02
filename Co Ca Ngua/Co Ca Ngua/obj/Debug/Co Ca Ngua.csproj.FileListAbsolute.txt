@@ -1,0 +1,65 @@
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csprojResolveAssemblyReference.cache
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.Cache
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAn\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csprojResolveAssemblyReference.cache
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\LapTrinhMang\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.Cache
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csprojResolveAssemblyReference.cache
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\LapTrinhMang\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.Cache
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csprojResolveAssemblyReference.cache
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\LapTrinhMang\DoAnMonHoc_Dân_Hạnh\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.Cache
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+C:\Users\Win 10\Desktop\TTLTM2019\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.Cache
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.AssemblyReference.cache
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.cache
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.CoreCompileInputs.cache
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\LT\18dds\DoAnMonHoc\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe.config
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.exe
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\bin\Debug\Co Ca Ngua.pdb
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.AssemblyReference.cache
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Form1.resources
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co_Ca_Ngua.Properties.Resources.resources
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.GenerateResource.cache
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.csproj.CoreCompileInputs.cache
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.exe
+D:\HK2 N2\ProjectNT106.O22\Co Ca Ngua\Co Ca Ngua\obj\Debug\Co Ca Ngua.pdb
